@@ -1,6 +1,6 @@
 slock - simple screen locker
 ============================
-simple screen locker utility for X.
+simple screen locker utility for X forked from [suckless.org](https://tools.suckless.org/slock).
 
 
 Requirements
